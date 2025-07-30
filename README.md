@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KHUSHI AGARWAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt = "coding" width = "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstockcake.com%2Fi%2Fcoding-at-night_1243263_1019508&psig=AOvVaw2mH9bZ6KK4oF995H8YDXxw&ust=1753963711468000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCelZPG5I4DFQAAAAAdAAAAABAE>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiagarwal-gh&label=Profile%20views&color=0e75b6&style=flat" alt="khushiagarwal-gh" /> </p>
 
 - 🌱 I’m currently learning **DSA**
