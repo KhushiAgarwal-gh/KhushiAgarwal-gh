@@ -45,8 +45,8 @@ An aspiring **Machine Learning Engineer** and **Backend Developer** currently in
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/khushi-agarwal-3a9912276/)
 * 📧 **Email:** khushiagarwal6350@gmail.com
-* 💻 **LeetCode:** [leetcode.com/your-username](https://leetcode.com)
+#* 💻 **LeetCode:** [leetcode.com/your-username](https://leetcode.com)
 
 ⚡ *Fun fact: I love bridging the gap between mathematical models and real-world, high-speed robotic workflows!*
