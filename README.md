@@ -1,25 +1,52 @@
-<h1 align="center">Hi 👋, I'm KHUSHI AGARWAL</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushiagarwal-gh&label=Profile%20views&color=0e75b6&style=flat" alt="khushiagarwal-gh" /> </p>
+# Hi there, I'm Khushi Agarwal 👋 
 
-- 🌱 I’m currently learning **DSA**
+An aspiring **Machine Learning Engineer** and **Backend Developer** currently in my final year of B.Tech in Information Technology. I specialize in building scalable deep learning systems, computer vision pipelines, and robust backend architectures.
 
-- 📫 How to reach me **khushiagarwal6350@gmail.com**
+---
 
-- ⚡ Fun fact **I am funny**
+### 🚀 Technical Core
+* **Languages:** Python, C++, JavaScript, SQL
+* **AI / Machine Learning:** Deep Learning (CNNs), Object Detection (YOLO), Camera Calibration, Feature Engineering
+* **Backend Engineering:** FastAPI, Flask, REST APIs, JWT Authentication, SQLAlchemy, MySQL, SQLite
+* **Tools & Systems:** Linux (RHCSA Certified), Git, GitHub, Docker, VS Code
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khushi agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi agarwal" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 💼 Current Industrial Experience
+* **AI/ML Intern at True Value Infosoft**  
+  Working on cyber-physical automation systems. Developed high-precision industrial vision architectures, optimized YOLO-based multi-class sorting models utilizing a 40,000+ image dataset, and engineered real-time 3D coordinate transformation pipelines for autonomous robotic deployment.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushiagarwal-gh&show_icons=true&locale=en&layout=compact" alt="khushiagarwal-gh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushiagarwal-gh&show_icons=true&locale=en" alt="khushiagarwal-gh" /></p>
+### 🛠️ Featured Engineering Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushiagarwal-gh&" alt="khushiagarwal-gh" /></p>
+* **Smart Visitor Management System**  
+  *FastAPI | OpenCV | SQLite | SQLAlchemy | JWT Auth*  
+  Built a secure production-ready backend system with real-time face verification and fully integrated token-based security infrastructure for corporate premises.
 
+* **Plant Disease Detection System**  
+  *Python | TensorFlow | CNN | OpenCV | Flask*  
+  Optimized a custom Convolutional Neural Network (CNN) architecture via data augmentation, achieving a 92% classification accuracy across a dataset of 5,000+ plant leaf images.
+
+* **Credit Risk Score Prediction System**  
+  *Python | Scikit-Learn | Pandas | NumPy | Flask*  
+  Engineered an ML-driven predictive pipeline evaluating loan eligibility and financial risk matrixing utilizing Random Forests and Logistic Regression models.
+
+---
+
+### 📊 Competitive Programming & Metrics
+* **LeetCode:** Peak Contest Rating **1428** | Solved 110+ Algorithmic Challenges (Dynamic Programming, Graphs, Data Structures).
+* **NPTEL (IIT National Exams):** 
+  * *The Joy of Computing using Python* (Elite + Silver)
+  * *Data Structures and Algorithms* (Elite)
+  * *Modern C++* (Elite)
+* **Academic Excellence:** Ranked **1st** (Sem 4) and **2nd** (Sem 2 & 3) department-wide in B.Tech IT.
+
+---
+
+### 📫 Connect with Me
+* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* 📧 **Email:** khushiagarwal6350@gmail.com
+* 💻 **LeetCode:** [leetcode.com/your-username](https://leetcode.com)
+
+⚡ *Fun fact: I love bridging the gap between mathematical models and real-world, high-speed robotic workflows!*
