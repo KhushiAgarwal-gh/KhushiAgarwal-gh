@@ -1,51 +1,81 @@
-# Hi there, I'm Khushi Agarwal 👋 
+# Hi there, I'm Khushi Agarwal 👋
 
-An aspiring **Machine Learning Engineer** and **Backend Developer** currently in my final year of B.Tech in Information Technology. I specialize in building scalable deep learning systems, computer vision pipelines, and robust backend architectures.
-
----
-
-### 🚀 Technical Core
-* **Languages:** Python, C++, JavaScript, SQL
-* **AI / Machine Learning:** Deep Learning (CNNs), Object Detection (YOLO), Camera Calibration, Feature Engineering
-* **Backend Engineering:** FastAPI, Flask, REST APIs, JWT Authentication, SQLAlchemy, MySQL, SQLite
-* **Tools & Systems:** Linux (RHCSA Certified), Git, GitHub, Docker, VS Code
+Final-year **B.Tech Information Technology student (2027 batch)** interested in **Data Engineering, Machine Learning, Data Analytics, and Backend Development**. I enjoy building data pipelines, processing datasets, developing machine learning models, and creating backend applications to solve real-world problems.
 
 ---
 
-### 💼 Current Industrial Experience
-* **AI/ML Intern at True Value Infosoft**  
-  Working on cyber-physical automation systems. Developed high-precision industrial vision architectures, optimized YOLO-based multi-class sorting models utilizing a 40,000+ image dataset, and engineered real-time 3D coordinate transformation pipelines for autonomous robotic deployment.
+### 🚀 Technical Skills
+
+- **Programming Languages:** Python, C++, SQL, JavaScript
+- **Data Engineering & Big Data:** Apache Spark, PySpark, Azure Databricks, Delta Lake, ETL/ELT Pipelines, Data Ingestion, Data Cleaning, Data Transformation, Medallion Architecture
+- **Cloud Technologies:** Microsoft Azure, Azure Data Lake Storage Gen2 (ADLS Gen2), Azure Data Factory (ADF), AWS (foundational knowledge)
+- **Data Analytics:** Pandas, NumPy, Power BI, Excel, Exploratory Data Analysis (EDA), Data Visualization
+- **Machine Learning:** Scikit-learn, Feature Engineering, Model Evaluation, Classification Algorithms
+- **Backend Development:** FastAPI, Flask, REST APIs, SQLAlchemy, SQLite, MySQL
+- **Tools & Platforms:** Git, GitHub, Linux (RHCSA Certified), Jupyter Notebook, VS Code
 
 ---
 
-### 🛠️ Featured Engineering Projects
+### 💼 Internship Experience
 
-* **Smart Visitor Management System**  
-  *FastAPI | OpenCV | SQLite | SQLAlchemy | JWT Auth*  
-  Built a secure production-ready backend system with real-time face verification and fully integrated token-based security infrastructure for corporate premises.
+**Data Engineering Intern — True Value Infosoft (P) Limited**
 
-* **Plant Disease Detection System**  
-  *Python | TensorFlow | CNN | OpenCV | Flask*  
-  Optimized a custom Convolutional Neural Network (CNN) architecture via data augmentation, achieving a 92% classification accuracy across a dataset of 5,000+ plant leaf images.
-
-* **Credit Risk Score Prediction System**  
-  *Python | Scikit-Learn | Pandas | NumPy | Flask*  
-  Engineered an ML-driven predictive pipeline evaluating loan eligibility and financial risk matrixing utilizing Random Forests and Logistic Regression models.
+- Worked on data processing and pipeline development using Python, SQL, and PySpark.
+- Explored distributed data processing with Apache Spark, Azure Databricks, and Delta Lake.
+- Worked with data cleaning, transformation, and Medallion Architecture concepts for organizing data into Bronze, Silver, and Gold layers.
 
 ---
 
-### 📊 Competitive Programming & Metrics
-* **LeetCode:** Peak Contest Rating **1428** | Solved 110+ Algorithmic Challenges (Dynamic Programming, Graphs, Data Structures).
-* **NPTEL (IIT National Exams):** 
-  * *The Joy of Computing using Python* (Elite + Silver)
-  * *Data Structures and Algorithms* (Elite)
-  * *Modern C++* (Elite)
-* **Academic Excellence:** Ranked **1st** (Sem 4) and **2nd** (Sem 2 & 3) department-wide in B.Tech IT.
+### 🛠️ Featured Projects
+
+**1. Retail Data Engineering Pipeline**  
+*Python | SQL | PySpark | Apache Spark | Azure Databricks | Delta Lake*
+
+- Developed a pipeline to process retail sales, customer, and product data.
+- Organized data into Bronze, Silver, and Gold layers using Medallion Architecture.
+- Applied data cleaning, duplicate handling, transformation, and validation to prepare structured datasets.
+- Used SQL to analyze monthly revenue, product performance, and customer purchasing trends.
+
+**2. TransitFlow — Public Transport Data Pipeline**  
+*Python | SQL | PySpark | Databricks | Delta Lake*
+
+- Designed a pipeline to ingest, clean, and transform public transport data containing trip records, passenger counts, and route information.
+- Structured data using Bronze, Silver, and Gold layers to improve data organization and consistency.
+- Developed SQL queries to analyze route-wise ridership, passenger trends, and trip delays.
+
+**3. Smart Visitor Management System**  
+*Python | FastAPI | OpenCV | SQLite | SQLAlchemy*
+
+- Developed a visitor management application with visitor registration and check-in/check-out functionality.
+- Used FastAPI for backend APIs, SQLite for data storage, and SQLAlchemy for database operations.
+- Integrated computer vision features using OpenCV.
+
+**4. Customer Churn Prediction System**  
+*Python | Pandas | NumPy | Scikit-learn*
+
+- Built a machine learning classification system to predict customer churn using demographic and service-usage data.
+- Performed exploratory data analysis, data preprocessing, and feature engineering.
+- Evaluated classification models using precision, recall, F1-score, and a confusion matrix.
 
 ---
 
-### 📫 Connect with Me
-* 💼 **LinkedIn:*https://www.linkedin.com/in/khushi-agarwal-3a9912276/
-* 📧 **Email:** khushiagarwal6350@gmail.com
+### 📊 Achievements & Certifications
 
-⚡ *Fun fact: I love bridging the gap between mathematical models and real-world, high-speed robotic workflows!*
+- **LeetCode:** Peak contest rating of 1428; solved 300+ DSA problems across coding platforms.
+- **NPTEL:** Programming in C, Modern C++, Data Structures and Algorithms Design (Elite), and The Joy of Computing Using Python (Elite + Silver).
+- **RHCSA:** Red Hat Certified System Administrator.
+- **HackerRank:** SQL skill certification.
+- **Academic Excellence:** Achieved semester SGPAs of 9.5, 9.6, 9.8, and 9.85.
+- Participated in Rajasthan DigiFest and ISRO hackathons.
+- Cleared Round 1 of Amazon ML School of Technology.
+
+---
+
+### 📫 Connect With Me
+
+- **LinkedIn:** [Khushi Agarwal](https://www.linkedin.com/in/khushi-agarwal-3a9912276/)
+- **Email:** [khushiagarwal6350@gmail.com](mailto:khushiagarwal6350@gmail.com)
+- **GitHub:** [KhushiAgarwal-gh](https://github.com/KhushiAgarwal-gh)
+
+⚡ *Interested in building reliable data pipelines, extracting insights from data, and developing practical software solutions.*
+
